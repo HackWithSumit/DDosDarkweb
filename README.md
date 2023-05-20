@@ -25,3 +25,10 @@ Compile
 RUN
 
      ./xerxes 142.250.196.14 443
+     
+     
+     
+<b><H2>Powered By</b></h2>
+
+![image](https://github.com/HackWithSumit/DDosDarkweb/assets/120317751/d2b0adb4-98f6-41ca-9f06-f61c64b2c3fe)
+
