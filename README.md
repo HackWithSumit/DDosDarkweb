@@ -24,7 +24,7 @@ Compile
       
 RUN
 
-     ./xerxes 142.250.196.14 443
+     ./xerxes IP PORT
      
      
      
