@@ -12,3 +12,16 @@ GIT repositories
 Go to DIRECTORY
 
      cd Anonymous
+     
+Execute
+
+      chmod +x *
+      
+Compile
+
+      gcc -o xerxes xerxes.c
+      
+      
+RUN
+
+      ./xerxes IP PORT
