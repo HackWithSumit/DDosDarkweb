@@ -1,6 +1,8 @@
 # DDosDarkweb
 DDoS Attack means "Distributed Denial-of-Service (DDoS) Attack" and it is a cybercrime in which the attacker floods a server with internet traffic to prevent users from accessing connected online services and sites.
 
+!! Use your own risk !!
+
 <h3>DDos DarkWeb Tool</h3>
 
 <B> Installation </B>
